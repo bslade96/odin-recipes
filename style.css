@@ -1,0 +1,19 @@
+body {
+    text-align:center;
+    font-family: sans-serif;
+}
+.header {
+    font-size: 40px;
+    background-color: blueviolet;
+    color: white;
+}
+
+.image {
+    width: 500px;
+    height: auto;
+}
+
+p {
+    font-weight: bold;
+    font-size: 15px;
+}
