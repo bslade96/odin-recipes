@@ -2,10 +2,18 @@ body {
     text-align:center;
     font-family: sans-serif;
 }
-.header {
+
+.title, .header {
+    color: white
+}
+
+.title {
     font-size: 40px;
-    background-color: blueviolet;
-    color: white;
+    background-color: purple;
+}
+
+.header  {
+    background-color:darkgoldenrod;
 }
 
 .image {
@@ -13,7 +21,7 @@ body {
     height: auto;
 }
 
-p {
+#link {
     font-weight: bold;
     font-size: 15px;
 }
